@@ -1,6 +1,6 @@
 # Detoxifying-Text-Generation-with-Reinforcement-Learning
 
-This project comes from coursea "Generative AI with Large Language Model"
+
 
 In this project, I utilized the PyTorch framework along with HuggingFace's Transformers library to build a system for generating text based on reinforcement learning principles. The core of this system was the Proximal Policy Optimization (PPO) algorithm.
 
